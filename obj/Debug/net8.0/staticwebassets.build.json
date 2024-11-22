@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "7wdGnu1vXU0gCym1GeiyqxIoN4ZaMXLkaUGnBOiA5ws=",
+  "Source": "TrumpVersApi",
+  "BasePath": "_content/TrumpVersApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrumpVersApi\\wwwroot",
+      "Source": "TrumpVersApi",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
+      "BasePath": "_content/TrumpVersApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\index.html",
+      "SourceId": "TrumpVersApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
+      "BasePath": "_content/TrumpVersApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\scripts.js",
+      "SourceId": "TrumpVersApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
+      "BasePath": "_content/TrumpVersApi",
+      "RelativePath": "scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\styles.css",
+      "SourceId": "TrumpVersApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
+      "BasePath": "_content/TrumpVersApi",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
