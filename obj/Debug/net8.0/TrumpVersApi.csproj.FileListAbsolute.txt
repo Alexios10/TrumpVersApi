@@ -315,3 +315,4 @@ C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\refint\TrumpVersApi
 C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi.pdb
 C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi.genruntimeconfig.cache
 C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\ref\TrumpVersApi.dll
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi.sourcelink.json
