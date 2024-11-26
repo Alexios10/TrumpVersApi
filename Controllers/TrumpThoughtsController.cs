@@ -56,7 +56,7 @@ public class TrumpThoughtsController : ControllerBase
     }
 
     [HttpDelete("{id}")]
-    public async Task<ActionResult<TrumpThoughts?>> Delete(int id)
+    public async Task<ActionResult<TrumpThoughts>> Delete(int id)
     {
         TrumpThoughts? thoughtToDelete = await _trumpThoughtsContext.TrumpThoughts.FindAsync(id);
 
