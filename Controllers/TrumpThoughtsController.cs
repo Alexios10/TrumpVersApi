@@ -24,12 +24,26 @@ public class TrumpThoughtsController : ControllerBase
         return thoughts;
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("byid/{id}")]
     public async Task<ActionResult<TrumpThoughts?>> Get(int id)
     {
         TrumpThoughts? thought = await _trumpThoughtsContext.TrumpThoughts.FindAsync(id);
         return thought;
     }
+
+    [HttpGet("byname/{name}")]
+    public async Task<ActionResult<TrumpThoughts?>> Get(string name)
+    {
+        TrumpThoughts? thought = await _trumpThoughtsContext.TrumpThoughts
+            .FirstOrDefaultAsync(t => t.Name == name);
+
+        if (thought == null)
+        {
+            return NotFound($"TrumpThought with name '{name}' not found.");
+        }
+        return Ok(thought);
+    }
+
 
     [HttpPost]
     public async Task<ActionResult<TrumpThoughts>> Post([FromBody] TrumpThoughts newThought)
