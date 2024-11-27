@@ -45,7 +45,7 @@ public class TrumpThoughtsController : ControllerBase
     {
         try
         {
-            _trumpThoughtsContext.TrumpThoughts.Add(updateThought);
+            _trumpThoughtsContext.Entry(updateThought).State = EntityState.Modified;
             await _trumpThoughtsContext.SaveChangesAsync();
             return updateThought;
         }
