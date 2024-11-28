@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X8srasYffQWM5WRzwpTEBPJo1PqBqxQflZY7dutUjwY=",
+  "Hash": "2W1hlioLgpnoDmYBkIs/HR6/cmZltJcGm2J/f1fhMQM=",
   "Source": "TrumpVersApi-new",
   "BasePath": "_content/TrumpVersApi-new",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "TrumpVersApi-new\\wwwroot",
       "Source": "TrumpVersApi-new",
-      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi-new\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "Pattern": "**"
     }

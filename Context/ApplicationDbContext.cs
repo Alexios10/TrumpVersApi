@@ -9,5 +9,5 @@ public class ApplicationDbContext : DbContext
 
     public DbSet<TrumpThoughts> TrumpThoughts { get; set; }
     public DbSet<TrumpMerch> TrumpMerch { get; set; }
-
+    public DbSet<StaffMembers> StaffMembers { get; set; }
 }
