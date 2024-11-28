@@ -3639,9 +3639,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi.csproj",
-      "projectName": "TrumpVersApi",
-      "projectPath": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi.csproj",
+      "projectUniqueName": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi-new.csproj",
+      "projectName": "TrumpVersApi-new",
+      "projectPath": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi-new.csproj",
       "packagesPath": "C:\\Users\\satta\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\obj\\",
       "projectStyle": "PackageReference",

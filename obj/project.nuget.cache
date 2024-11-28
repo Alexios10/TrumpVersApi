@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gWfOZMKrCVE=",
+  "dgSpecHash": "jiWwqtIjomQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi.csproj",
+  "projectFilePath": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi-new.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\satta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\satta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

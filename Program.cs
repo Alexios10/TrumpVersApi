@@ -4,9 +4,10 @@ using TrumpVersApi.Contexts;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<TrumpThoughtsContext>(
-    options => options.UseSqlite("Data Source=Database/TrumpToughtsDb.db")
+builder.Services.AddDbContext<ApplicationDbContext>(
+    options => options.UseSqlite("Data Source=Database/TrumpDatabase.db")
 );
+
 
 builder.Services.AddCors(
     options =>

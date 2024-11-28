@@ -10,9 +10,9 @@ namespace TrumpVersApi.Controllers;
 
 public class TrumpThoughtsController : ControllerBase
 {
-    private readonly TrumpThoughtsContext _trumpThoughtsContext;
+    private readonly ApplicationDbContext _trumpThoughtsContext;
 
-    public TrumpThoughtsController(TrumpThoughtsContext trumpThoughtsContext)
+    public TrumpThoughtsController(ApplicationDbContext trumpThoughtsContext)
     {
         _trumpThoughtsContext = trumpThoughtsContext;
     }
