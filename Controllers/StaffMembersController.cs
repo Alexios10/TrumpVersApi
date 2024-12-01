@@ -24,11 +24,24 @@ public class StaffMembersController : ControllerBase
         return staffMember;
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("byid/{id}")]
     public async Task<ActionResult<StaffMembers?>> Get(int id)
     {
         StaffMembers? staffMembers = await _staffMembersContext.StaffMembers.FindAsync(id);
         return staffMembers;
+    }
+
+    [HttpGet("byname/{name}")]
+    public async Task<ActionResult<StaffMembers?>> Get(string name)
+    {
+        StaffMembers? staffMembers = await _staffMembersContext.StaffMembers
+            .FirstOrDefaultAsync(t => t.Name == name);
+
+        if (staffMembers == null)
+        {
+            return NotFound($"Member with name '{name}' not found.");
+        }
+        return Ok(staffMembers);
     }
 
 
