@@ -32,17 +32,20 @@ public class TrumpThoughtsController : ControllerBase
     }
 
     [HttpGet("byname/{name}")]
-    public async Task<ActionResult<TrumpThoughts?>> Get(string name)
+    public async Task<ActionResult<IEnumerable<TrumpThoughts>>> Get(string name)
     {
-        TrumpThoughts? thought = await _trumpThoughtsContext.TrumpThoughts
-            .FirstOrDefaultAsync(t => t.Name == name);
+        var thoughts = await _trumpThoughtsContext.TrumpThoughts
+            .Where(thought => thought.Name == name)
+            .ToListAsync();
 
-        if (thought == null)
+        if (!thoughts.Any())
         {
-            return NotFound($"TrumpThought with name '{name}' not found.");
+            return NotFound($"No TrumpThoughts with the name '{name}' found.");
         }
-        return Ok(thought);
+
+        return Ok(thoughts);
     }
+
 
 
     [HttpPost]

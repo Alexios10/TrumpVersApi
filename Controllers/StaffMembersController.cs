@@ -54,7 +54,7 @@ public class StaffMembersController : ControllerBase
     }
 
     [HttpPut]
-    public async Task<ActionResult<StaffMembers>> Put(StaffMembers updateMember)
+    public async Task<ActionResult<StaffMembers>> Put([FromBody] StaffMembers updateMember)
     {
         try
         {
