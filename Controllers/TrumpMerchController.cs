@@ -24,22 +24,33 @@ public class TrumpMerchController : ControllerBase
         return merch;
     }
 
-    [HttpGet("{id}")]
+    [HttpGet("byid/{id}")]
     public async Task<ActionResult<TrumpMerch?>> Get(int id)
     {
         TrumpMerch? merch = await _trumpMerchContext.TrumpMerch.FindAsync(id);
         return merch;
     }
 
+    [HttpGet("byname/{name}")]
+    public async Task<ActionResult<TrumpMerch?>> Get(string name)
+    {
+        TrumpMerch? merchandise = await _trumpMerchContext.TrumpMerch
+            .FirstOrDefaultAsync(member => member.Name == name);
 
-    // [HttpPost]
-    // public async Task<ActionResult<TrumpThoughts>> Post([FromBody] TrumpThoughts newThought)
-    // {
-    //     newThought.DateCreated = DateTime.UtcNow;
-    //     _trumpMerchContext.TrumpThoughts.Add(newThought);
-    //     await _trumpMerchContext.SaveChangesAsync();
-    //     return newThought;
-    // }
+        if (merchandise == null)
+        {
+            return NotFound($"Member with name '{name}' not found.");
+        }
+        return Ok(merchandise);
+    }
+
+    [HttpPost]
+    public async Task<ActionResult<TrumpMerch>> Post(TrumpMerch newMerch)
+    {
+        _trumpMerchContext.TrumpMerch.Add(newMerch);
+        await _trumpMerchContext.SaveChangesAsync();
+        return newMerch;
+    }
 
     [HttpPut]
     public async Task<ActionResult<TrumpMerch>> Put(TrumpMerch updateMerch)

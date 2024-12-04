@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\images\\merchandises\\tshirt.jpeg"
     },
     {
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\vise-president.png",
+      "PackagePath": "staticwebassets\\images\\merchandises\\vise-president.png"
+    },
+    {
       "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\minister.png",
       "PackagePath": "staticwebassets\\images\\staff-members\\minister.png"
     },

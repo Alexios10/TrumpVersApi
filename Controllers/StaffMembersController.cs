@@ -35,7 +35,7 @@ public class StaffMembersController : ControllerBase
     public async Task<ActionResult<StaffMembers?>> Get(string name)
     {
         StaffMembers? staffMembers = await _staffMembersContext.StaffMembers
-            .FirstOrDefaultAsync(t => t.Name == name);
+            .FirstOrDefaultAsync(thought => thought.Name == name);
 
         if (staffMembers == null)
         {
@@ -44,9 +44,8 @@ public class StaffMembersController : ControllerBase
         return Ok(staffMembers);
     }
 
-
     [HttpPost]
-    public async Task<ActionResult<StaffMembers>> Post([FromBody] StaffMembers newStaffMember)
+    public async Task<ActionResult<StaffMembers>> Post(StaffMembers newStaffMember)
     {
         _staffMembersContext.StaffMembers.Add(newStaffMember);
         await _staffMembersContext.SaveChangesAsync();
@@ -54,7 +53,7 @@ public class StaffMembersController : ControllerBase
     }
 
     [HttpPut]
-    public async Task<ActionResult<StaffMembers>> Put([FromBody] StaffMembers updateMember)
+    public async Task<ActionResult<StaffMembers>> Put(StaffMembers updateMember)
     {
         try
         {

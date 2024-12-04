@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tluNMSnEU6x+TPq+uim//D174AJlYRWAsvpVvOn39u4=",
+  "Hash": "vDAqTOx5mE2WFuKDP4kM970xptaM4s35Eg2mO8bZ03s=",
   "Source": "TrumpVersApi-new",
   "BasePath": "_content/TrumpVersApi-new",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\merchandises\\tshirt.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\vise-president.png",
+      "SourceId": "TrumpVersApi-new",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
+      "BasePath": "_content/TrumpVersApi-new",
+      "RelativePath": "images/merchandises/vise-president.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\merchandises\\vise-president.png"
     },
     {
       "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\minister.png",

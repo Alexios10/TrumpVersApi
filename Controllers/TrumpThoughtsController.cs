@@ -32,7 +32,7 @@ public class TrumpThoughtsController : ControllerBase
     }
 
     [HttpGet("byname/{name}")]
-    public async Task<ActionResult<IEnumerable<TrumpThoughts>>> Get(string name)
+    public async Task<ActionResult<TrumpThoughts?>> Get(string name)
     {
         var thoughts = await _trumpThoughtsContext.TrumpThoughts
             .Where(thought => thought.Name == name)
@@ -46,10 +46,8 @@ public class TrumpThoughtsController : ControllerBase
         return Ok(thoughts);
     }
 
-
-
     [HttpPost]
-    public async Task<ActionResult<TrumpThoughts>> Post([FromBody] TrumpThoughts newThought)
+    public async Task<ActionResult<TrumpThoughts>> Post(TrumpThoughts newThought)
     {
         newThought.DateCreated = DateTime.UtcNow;
         _trumpThoughtsContext.TrumpThoughts.Add(newThought);

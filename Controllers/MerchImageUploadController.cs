@@ -4,12 +4,12 @@ namespace TrumpVersApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class ImageUploadController : ControllerBase
+public class MerchImageUploadController : ControllerBase
 {
 
     private readonly IWebHostEnvironment _webHostEnvironment;
 
-    public ImageUploadController(IWebHostEnvironment webHostEnvironment) // IWebHostEnvironment er en hjelpeklasse for å blant annet opprette filstier i Web APIet
+    public MerchImageUploadController(IWebHostEnvironment webHostEnvironment) // IWebHostEnvironment er en hjelpeklasse for å blant annet opprette filstier i Web APIet
     {
         _webHostEnvironment = webHostEnvironment;
     }
@@ -19,7 +19,7 @@ public class ImageUploadController : ControllerBase
     {
         // TODO: ha try catch rundt blokken her
         string webRootPath = _webHostEnvironment.WebRootPath; // WebRootPath er en filsti som brukes innad i Web APIet
-        string absolutePath = Path.Combine(webRootPath, "images/staff-members", file.FileName); // Setter sammen en filsti
+        string absolutePath = Path.Combine(webRootPath, "images/merchandises", file.FileName); // Setter sammen en filsti
 
         using (var fileStream = new FileStream(absolutePath, FileMode.Create))
         {
