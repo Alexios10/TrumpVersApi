@@ -9,4 +9,5 @@ interface ITrumpMerch
     string? Description { get; set; }
     int? Price { get; set; }
     int? Quantity { get; set; }
+    string? Category { get; set; }
 }
