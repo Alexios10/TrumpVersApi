@@ -32,7 +32,7 @@
       <h2>Staff Members Endpoints</h2>
       <h3>1. Get All Staff Members</h3>
       <p>Retrieve a list of all staff members.</p>
-      <p><strong>Endpoint:</strong> <code>GET /staffmembers</code></p>
+      <p><strong>Endpoint:</strong> <code>GET/staffmembers</code></p>
       <p>
         <strong>Example:</strong>
         <a href="http://localhost:5068/api/staffmembers" target="_blank"
@@ -50,10 +50,9 @@
    <span>"email"</span>: ""
 }
       </pre>
-
       <h3>2. Get Staff Member by ID</h3>
       <p>Retrieve a specific staff member by their ID.</p>
-      <p><strong>Endpoint:</strong> <code>GET /staffmembers/byid/{id}</code></p>
+      <p><strong>Endpoint:</strong> <code>GET/staffmembers/byid/{id}</code></p>
       <p>
         <strong>Example:</strong>
         <a href="http://localhost:5068/api/staffmembers/byid/1" target="_blank"
@@ -71,11 +70,10 @@
    <span>"email"</span>: ""
 }
       </pre>
-
       <h3>3. Get Staff Member by Name</h3>
       <p>Retrieve a staff member by their name.</p>
       <p>
-        <strong>Endpoint:</strong> <code>GET /staffmembers/byname/{name}</code>
+        <strong>Endpoint:</strong> <code>GET/staffmembers/byname/{name}</code>
       </p>
       <p>
         <strong>Example:</strong>
@@ -96,10 +94,9 @@
    <span>"email"</span>: ""
 }
       </pre>
-
       <h3>4. Add a New Staff Member</h3>
       <p>Create a new staff member.</p>
-      <p><strong>Endpoint:</strong> <code>POST /staffmembers</code></p>
+      <p><strong>Endpoint:</strong> <code>POST/staffmembers</code></p>
       <p><strong>Request Body:</strong></p>
       <pre>
 {
@@ -110,16 +107,9 @@
    <span>"email"</span>: ""
 }
       </pre>
-
       <h3>5. Update an Existing Staff Member</h3>
       <p>Update the details of an existing staff member.</p>
-      <p><strong>Endpoint:</strong> <code>PUT /staffmembers/{id}</code></p>
-      <p>
-        <strong>Example:</strong>
-        <a href="http://localhost:5068/api/staffmembers/1" target="_blank"
-          >http://localhost:5068/api/staffmembers/1</a
-        >
-      </p>
+      <p><strong>Endpoint:</strong> <code>PUT/staffmembers/{id}</code></p>
       <p><strong>Request Body:</strong></p>
       <pre>
 {
@@ -130,22 +120,15 @@
    <span>"email"</span>: "sonny.perdue@example.com"
 }
       </pre>
-
       <h3>6. Delete a Staff Member</h3>
       <p>Delete a staff member by their ID.</p>
-      <p><strong>Endpoint:</strong> <code>DELETE /staffmembers/{id}</code></p>
-      <p>
-        <strong>Example:</strong>
-        <a href="http://localhost:5068/api/staffmembers/1" target="_blank"
-          >http://localhost:5068/api/staffmembers/1</a
-        >
-      </p>
+      <p><strong>Endpoint:</strong> <code>DELETE/staffmembers/{id}</code></p>
     </section>
     <section>
       <h2>Trump Thoughts Endpoints</h2>
       <h3>1. Get All Trump Thoughts</h3>
       <p>Retrieve all Trump thoughts.</p>
-      <p><strong>Endpoint:</strong> <code>GET /trumpthoughts</code></p>
+      <p><strong>Endpoint:</strong> <code>GET/trumpthoughts</code></p>
       <p>
         <strong>Example:</strong>
         <a href="http://localhost:5068/api/trumpthoughts" target="_blank"
@@ -162,10 +145,9 @@
    <span>"category"</span>: "Economy",
 }
       </pre>
-
       <h3>2. Add a Trump Thought</h3>
       <p>Create a new Trump thought.</p>
-      <p><strong>Endpoint:</strong> <code>POST /trumpthoughts</code></p>
+      <p><strong>Endpoint:</strong> <code>POST/trumpthoughts</code></p>
       <p><strong>Request Body:</strong></p>
       <pre>
 {
@@ -173,16 +155,9 @@
    <span>"dateCreated"</span>: "2024-12-08T14:00:00Z"
 }
       </pre>
-
       <h3>3. Update an Existing Trump Thought</h3>
       <p>Update the details of an existing Trump thought.</p>
-      <p><strong>Endpoint:</strong> <code>PUT /trumpthoughts/{id}</code></p>
-      <p>
-        <strong>Example:</strong>
-        <a href="http://localhost:5068/api/trumpthoughts/1" target="_blank"
-          >http://localhost:5068/api/trumpthoughts/1</a
-        >
-      </p>
+      <p><strong>Endpoint:</strong> <code>PUT/trumpthoughts/{id}</code></p>
       <p><strong>Request Body:</strong></p>
       <pre>
 {
@@ -191,22 +166,15 @@
    <span>"dateCreated"</span>: "2024-12-08T15:00:00Z"
 }
       </pre>
-
       <h3>4. Delete a Trump Thought</h3>
       <p>Delete a Trump Thought by its ID.</p>
       <p><strong>Endpoint:</strong> <code>DELETE /trumpthoughts/{id}</code></p>
-      <p>
-        <strong>Example:</strong>
-        <a href="http://localhost:5068/api/trumpthoughts/1" target="_blank"
-          >http://localhost:5068/api/trumpthoughts/1</a
-        >
-      </p>
     </section>
     <section>
       <h2>Trump Merch Endpoints</h2>
       <h3>1. Get All Merchandise</h3>
       <p>Retrieve a list of all Trump merchandise items.</p>
-      <p><strong>Endpoint:</strong> <code>GET /trumpmerch</code></p>
+      <p><strong>Endpoint:</strong> <code>GET/trumpmerch</code></p>
       <p>
         <strong>Example:</strong>
         <a href="http://localhost:5068/api/trumpmerch" target="_blank"
@@ -233,7 +201,7 @@
 
       <h3>2. Add a Merchandise Item</h3>
       <p>Create a new merchandise item.</p>
-      <p><strong>Endpoint:</strong> <code>POST /trumpmerch</code></p>
+      <p><strong>Endpoint:</strong> <code>POST/trumpmerch</code></p>
       <p><strong>Request Body:</strong></p>
       <pre>
 {
@@ -245,13 +213,7 @@
 
       <h3>3. Update an Existing Merchandise Item</h3>
       <p>Update the details of an existing merchandise item.</p>
-      <p><strong>Endpoint:</strong> <code>PUT /trumpmerch/{id}</code></p>
-      <p>
-        <strong>Example:</strong>
-        <a href="http://localhost:5068/api/trumpmerch/1" target="_blank"
-          >http://localhost:5068/api/trumpmerch/1</a
-        >
-      </p>
+      <p><strong>Endpoint:</strong> <code>PUT/trumpmerch/{id}</code></p>
       <p><strong>Request Body:</strong></p>
       <pre>
 {
@@ -260,16 +222,9 @@
    <span>"image"</span>: "new-trump-tshirt.png"
 }
       </pre>
-
       <h3>4. Delete a Merchandise Item</h3>
       <p>Delete a Trump merchandise item by its ID.</p>
-      <p><strong>Endpoint:</strong> <code>DELETE /trumpmerch/{id}</code></p>
-      <p>
-        <strong>Example:</strong>
-        <a href="http://localhost:5068/api/trumpmerch/1" target="_blank"
-          >http://localhost:5068/api/trumpmerch/1</a
-        >
-      </p>
+      <p><strong>Endpoint:</strong> <code>DELETE/trumpmerch/{id}</code></p>
     </section>
   </body>
 </html>
