@@ -1,59 +1,59 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\css\\styles.css",
-      "PackagePath": "staticwebassets\\css\\styles.css"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\hat.png",
-      "PackagePath": "staticwebassets\\images\\merchandises\\hat.png"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/hat.png",
+      "PackagePath": "staticwebassets/images/merchandises/hat.png"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\tshirt.jpeg",
-      "PackagePath": "staticwebassets\\images\\merchandises\\tshirt.jpeg"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/tshirt.jpeg",
+      "PackagePath": "staticwebassets/images/merchandises/tshirt.jpeg"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\vise-president.png",
-      "PackagePath": "staticwebassets\\images\\merchandises\\vise-president.png"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/vise-president.png",
+      "PackagePath": "staticwebassets/images/merchandises/vise-president.png"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\minister.png",
-      "PackagePath": "staticwebassets\\images\\staff-members\\minister.png"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/minister.png",
+      "PackagePath": "staticwebassets/images/staff-members/minister.png"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\minister2.jpg",
-      "PackagePath": "staticwebassets\\images\\staff-members\\minister2.jpg"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/minister2.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/minister2.jpg"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\vise-president.png",
-      "PackagePath": "staticwebassets\\images\\staff-members\\vise-president.png"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/vise-president.png",
+      "PackagePath": "staticwebassets/images/staff-members/vise-president.png"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\yourArmy.jpg",
-      "PackagePath": "staticwebassets\\images\\staff-members\\yourArmy.jpg"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/yourArmy.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/yourArmy.jpg"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\scripts\\scripts.js",
-      "PackagePath": "staticwebassets\\scripts\\scripts.js"
+      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/scripts/scripts.js",
+      "PackagePath": "staticwebassets/scripts/scripts.js"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TrumpVersApi-new.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TrumpVersApi-new.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TrumpVersApi-new.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TrumpVersApi-new.props",
       "PackagePath": "build\\TrumpVersApi-new.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TrumpVersApi-new.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TrumpVersApi-new.props",
       "PackagePath": "buildMultiTargeting\\TrumpVersApi-new.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TrumpVersApi-new.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TrumpVersApi-new.props",
       "PackagePath": "buildTransitive\\TrumpVersApi-new.props"
     }
   ],
