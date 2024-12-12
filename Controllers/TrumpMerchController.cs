@@ -47,9 +47,17 @@ public class TrumpMerchController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<TrumpMerch>> Post(TrumpMerch newMerch)
     {
-        _trumpMerchContext.TrumpMerch.Add(newMerch);
-        await _trumpMerchContext.SaveChangesAsync();
-        return newMerch;
+        try
+        {
+            _trumpMerchContext.TrumpMerch.Add(newMerch);
+            await _trumpMerchContext.SaveChangesAsync();
+            return newMerch;
+        }
+        catch
+        {
+            return StatusCode(StatusCodes.Status500InternalServerError);
+        }
+
     }
 
     [HttpPut]

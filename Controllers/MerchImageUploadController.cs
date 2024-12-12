@@ -19,7 +19,6 @@ public class MerchImageUploadController : ControllerBase
     {
         try
         {
-
             string webRootPath = _webHostEnvironment.WebRootPath;
             string absolutePath = Path.Combine(webRootPath, "images/merchandises", file.FileName);
 
@@ -30,10 +29,9 @@ public class MerchImageUploadController : ControllerBase
 
             return Created();
         }
-        catch (System.Exception)
+        catch
         {
-
-            throw;
+            return StatusCode(StatusCodes.Status500InternalServerError);
         }
 
     }

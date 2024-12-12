@@ -49,10 +49,19 @@ public class TrumpThoughtsController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<TrumpThoughts>> Post(TrumpThoughts newThought)
     {
-        newThought.DateCreated = DateTime.UtcNow;
-        _trumpThoughtsContext.TrumpThoughts.Add(newThought);
-        await _trumpThoughtsContext.SaveChangesAsync();
-        return newThought;
+        try
+        {
+            newThought.DateCreated = DateTime.UtcNow;
+            _trumpThoughtsContext.TrumpThoughts.Add(newThought);
+            await _trumpThoughtsContext.SaveChangesAsync();
+            return newThought;
+        }
+        catch
+        {
+            return StatusCode(StatusCodes.Status500InternalServerError);
+        }
+
+
     }
 
     [HttpPut]

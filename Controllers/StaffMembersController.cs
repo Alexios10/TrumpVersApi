@@ -47,9 +47,17 @@ public class StaffMembersController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<StaffMembers>> Post(StaffMembers newStaffMember)
     {
-        _staffMembersContext.StaffMembers.Add(newStaffMember);
-        await _staffMembersContext.SaveChangesAsync();
-        return newStaffMember;
+        try
+        {
+            _staffMembersContext.StaffMembers.Add(newStaffMember);
+            await _staffMembersContext.SaveChangesAsync();
+            return newStaffMember;
+        }
+        catch
+        {
+            return StatusCode(StatusCodes.Status500InternalServerError);
+        }
+
     }
 
     [HttpPut]
