@@ -49,10 +49,6 @@
       "PackagePath": "staticwebassets\\images\\merchandises\\TAKHoodie.jpg"
     },
     {
-      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TTAcc.webp",
-      "PackagePath": "staticwebassets\\images\\merchandises\\TTAcc.webp"
-    },
-    {
       "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\Trump2024Hat.jpg",
       "PackagePath": "staticwebassets\\images\\merchandises\\Trump2024Hat.jpg"
     },
@@ -87,6 +83,10 @@
     {
       "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\blueHat.png",
       "PackagePath": "staticwebassets\\images\\merchandises\\blueHat.png"
+    },
+    {
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\hat.png",
+      "PackagePath": "staticwebassets\\images\\merchandises\\hat.png"
     },
     {
       "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\AAzar.jpg",

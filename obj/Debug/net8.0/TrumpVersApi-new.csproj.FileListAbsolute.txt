@@ -481,6 +481,14 @@ C:/Users/satta/Desktop/backend/TrumpVersApi-new/obj/Debug/net8.0/ref/TrumpVersAp
 /Users/nadeemahmed/Desktop/TrumpVersApi/obj/Debug/net8.0/TrumpVersApi-new.genruntimeconfig.cache
 /Users/nadeemahmed/Desktop/TrumpVersApi/obj/Debug/net8.0/ref/TrumpVersApi-new.dll
 >>>>>>> 60246dec2e4402a9b264e38360547aa30252a12f
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.csproj.AssemblyReference.cache
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.AssemblyInfoInputs.cache
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.AssemblyInfo.cs
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.csproj.CoreCompileInputs.cache
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.sourcelink.json
 C:\Users\satta\Desktop\backend\TrumpVersApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\satta\Desktop\backend\TrumpVersApi\bin\Debug\net8.0\appsettings.json
 C:\Users\satta\Desktop\backend\TrumpVersApi\bin\Debug\net8.0\TrumpVersApi-new.staticwebassets.runtime.json
@@ -619,14 +627,6 @@ C:\Users\satta\Desktop\backend\TrumpVersApi\bin\Debug\net8.0\runtimes\win-arm64\
 C:\Users\satta\Desktop\backend\TrumpVersApi\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\satta\Desktop\backend\TrumpVersApi\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\satta\Desktop\backend\TrumpVersApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.csproj.AssemblyReference.cache
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.AssemblyInfoInputs.cache
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.AssemblyInfo.cs
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.csproj.CoreCompileInputs.cache
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\TrumpVersApi-new.sourcelink.json
 C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\satta\Desktop\backend\TrumpVersApi\obj\Debug\net8.0\staticwebassets\msbuild.TrumpVersApi-new.Microsoft.AspNetCore.StaticWebAssets.props

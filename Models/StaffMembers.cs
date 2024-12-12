@@ -1,8 +1,8 @@
-using TrumpVersApi.interfaces;
+using TrumpVersApi.Interfaces;
 
 namespace TrumpVersApi.Models;
 
-public class StaffMembers : IStaffmembers
+public class StaffMembers : IStaffMembers
 {
     public int Id { get; set; }
     public string? Name { get; set; }

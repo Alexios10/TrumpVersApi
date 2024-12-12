@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qNrlf+v2mtO/0n2F+8RcQ7C93o+4UOb23UyWXT8cKJk=",
+  "Hash": "ikeZtYbBxwJWTKSMMf4BbDD3/fystu3Qe/6qH+tUIyo=",
   "Source": "TrumpVersApi-new",
   "BasePath": "_content/TrumpVersApi-new",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\merchandises\\FreeTrumpHoodie.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\hat.png",
+      "SourceId": "TrumpVersApi-new",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
+      "BasePath": "_content/TrumpVersApi-new",
+      "RelativePath": "images/merchandises/hat.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\merchandises\\hat.png"
     },
     {
       "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\KAGT.jpg",
@@ -376,25 +395,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\merchandises\\TrumpShotGlass.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TTAcc.webp",
-      "SourceId": "TrumpVersApi-new",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
-      "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/TTAcc.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\merchandises\\TTAcc.webp"
     },
     {
       "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\VintageHoodie.jpg",
