@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kJhyU2h1jWG0U+SMdFDt9hkGEv2bXV8zpmK+Ure0vH4=",
+  "Hash": "vDAqTOx5mE2WFuKDP4kM970xptaM4s35Eg2mO8bZ03s=",
   "Source": "TrumpVersApi-new",
   "BasePath": "_content/TrumpVersApi-new",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "TrumpVersApi-new/wwwroot",
+      "Name": "TrumpVersApi-new\\wwwroot",
       "Source": "TrumpVersApi-new",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/css/styles.css",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\css\\styles.css",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/styles.css"
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/hat.png",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\hat.png",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "images/merchandises/hat.png",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/hat.png"
+      "OriginalItemSpec": "wwwroot\\images\\merchandises\\hat.png"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/tshirt.jpeg",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\tshirt.jpeg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "images/merchandises/tshirt.jpeg",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/tshirt.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\merchandises\\tshirt.jpeg"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/vise-president.png",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\vise-president.png",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "images/merchandises/vise-president.png",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/vise-president.png"
+      "OriginalItemSpec": "wwwroot\\images\\merchandises\\vise-president.png"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/minister.png",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\minister.png",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "images/staff-members/minister.png",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/staff-members/minister.png"
+      "OriginalItemSpec": "wwwroot\\images\\staff-members\\minister.png"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/minister2.jpg",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\minister2.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "images/staff-members/minister2.jpg",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/staff-members/minister2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\staff-members\\minister2.jpg"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/vise-president.png",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\vise-president.png",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "images/staff-members/vise-president.png",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/staff-members/vise-president.png"
+      "OriginalItemSpec": "wwwroot\\images\\staff-members\\vise-president.png"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/yourArmy.jpg",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\yourArmy.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "images/staff-members/yourArmy.jpg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/staff-members/yourArmy.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\staff-members\\yourArmy.jpg"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/index.html",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\index.html",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/index.html"
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/scripts/scripts.js",
+      "Identity": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\scripts\\scripts.js",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/",
+      "ContentRoot": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\",
       "BasePath": "_content/TrumpVersApi-new",
       "RelativePath": "scripts/scripts.js",
       "AssetKind": "All",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/scripts/scripts.js"
+      "OriginalItemSpec": "wwwroot\\scripts\\scripts.js"
     }
   ]
 }
