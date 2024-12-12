@@ -5,28 +5,100 @@
       "PackagePath": "staticwebassets/css/styles.css"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/hat.png",
-      "PackagePath": "staticwebassets/images/merchandises/hat.png"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/2024T.jpeg",
+      "PackagePath": "staticwebassets/images/merchandises/2024T.jpeg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/tshirt.jpeg",
-      "PackagePath": "staticwebassets/images/merchandises/tshirt.jpeg"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/AmericaHoodie.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/AmericaHoodie.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/vise-president.png",
-      "PackagePath": "staticwebassets/images/merchandises/vise-president.png"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/FightT.jpeg",
+      "PackagePath": "staticwebassets/images/merchandises/FightT.jpeg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/Floaty.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/Floaty.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/FreeTrumpHoodie.jpeg",
+      "PackagePath": "staticwebassets/images/merchandises/FreeTrumpHoodie.jpeg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/KAGT.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/KAGT.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/MagaT.jpeg",
+      "PackagePath": "staticwebassets/images/merchandises/MagaT.jpeg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/SAGT.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/SAGT.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TAKHoodie.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/TAKHoodie.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TDollars.webp",
+      "PackagePath": "staticwebassets/images/merchandises/TDollars.webp"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TFLags.webp",
+      "PackagePath": "staticwebassets/images/merchandises/TFLags.webp"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TSocks.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/TSocks.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TTAcc.webp",
+      "PackagePath": "staticwebassets/images/merchandises/TTAcc.webp"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpinatorAcc.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/TrumpinatorAcc.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/VintageHoodie.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/VintageHoodie.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/WhiteHoodie.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/WhiteHoodie.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/blackHat.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/blackHat.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/blueHat.png",
+      "PackagePath": "staticwebassets/images/merchandises/blueHat.png"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/greenHat.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/greenHat.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/redHat.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/redHat.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/whiteHat.png",
+      "PackagePath": "staticwebassets/images/merchandises/whiteHat.png"
     },
     {
       "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AAzar.jpg",
       "PackagePath": "staticwebassets/images/staff-members/AAzar.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AWheeler.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/AWheeler.jpg"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Andrew Wheeler.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/Andrew Wheeler.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/BCarson.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/BCarson.jpg"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Benjamin S. Carson, Sr.  .jpg",
+      "PackagePath": "staticwebassets/images/staff-members/Benjamin S. Carson, Sr.  .jpg"
     },
     {
       "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/CMiller.jpeg",
