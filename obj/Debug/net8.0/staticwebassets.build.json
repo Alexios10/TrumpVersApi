@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4lyQUUUwwC4zBSNXUd0LdzxIEibRtX7wDdRj//iWcRE=",
+  "Hash": "2+Xm2hU//j413WO+N+iCxfA6CMKPLE1hCSo1MiaLbA0=",
   "Source": "TrumpVersApi-new",
   "BasePath": "_content/TrumpVersApi-new",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/merchandises/2024T.jpeg"
+    },
+    {
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/4547Hat.jpg",
+      "SourceId": "TrumpVersApi-new",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
+      "BasePath": "_content/TrumpVersApi-new",
+      "RelativePath": "images/merchandises/4547Hat.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/merchandises/4547Hat.jpg"
     },
     {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/AmericaHoodie.jpg",
@@ -112,6 +131,25 @@
       "OriginalItemSpec": "wwwroot/images/merchandises/blueHat.png"
     },
     {
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/ChristmasTrump.jpg",
+      "SourceId": "TrumpVersApi-new",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
+      "BasePath": "_content/TrumpVersApi-new",
+      "RelativePath": "images/merchandises/ChristmasTrump.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/merchandises/ChristmasTrump.jpg"
+    },
+    {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/FightT.jpeg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
@@ -131,25 +169,6 @@
       "OriginalItemSpec": "wwwroot/images/merchandises/FightT.jpeg"
     },
     {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/Floaty.jpg",
-      "SourceId": "TrumpVersApi-new",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
-      "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/Floaty.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/Floaty.jpg"
-    },
-    {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/FreeTrumpHoodie.jpeg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
@@ -167,25 +186,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/merchandises/FreeTrumpHoodie.jpeg"
-    },
-    {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/greenHat.jpg",
-      "SourceId": "TrumpVersApi-new",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
-      "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/greenHat.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/greenHat.jpg"
     },
     {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/KAGT.jpg",
@@ -226,25 +226,6 @@
       "OriginalItemSpec": "wwwroot/images/merchandises/MagaT.jpeg"
     },
     {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/redHat.jpg",
-      "SourceId": "TrumpVersApi-new",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
-      "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/redHat.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/redHat.jpg"
-    },
-    {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/SAGT.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
@@ -262,6 +243,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/merchandises/SAGT.jpg"
+    },
+    {
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/SequelHat.jpg",
+      "SourceId": "TrumpVersApi-new",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
+      "BasePath": "_content/TrumpVersApi-new",
+      "RelativePath": "images/merchandises/SequelHat.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/merchandises/SequelHat.jpg"
     },
     {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TAKHoodie.jpg",
@@ -283,12 +283,12 @@
       "OriginalItemSpec": "wwwroot/images/merchandises/TAKHoodie.jpg"
     },
     {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TDollars.webp",
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/Trump2024Hat.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
       "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/TDollars.webp",
+      "RelativePath": "images/merchandises/Trump2024Hat.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/TDollars.webp"
+      "OriginalItemSpec": "wwwroot/images/merchandises/Trump2024Hat.jpg"
     },
     {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TFLags.webp",
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpGame.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
       "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/TFLags.webp",
+      "RelativePath": "images/merchandises/TrumpGame.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,7 +318,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/TFLags.webp"
+      "OriginalItemSpec": "wwwroot/images/merchandises/TrumpGame.jpg"
     },
     {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpinatorAcc.jpg",
@@ -340,12 +340,12 @@
       "OriginalItemSpec": "wwwroot/images/merchandises/TrumpinatorAcc.jpg"
     },
     {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TSocks.jpg",
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpOrnament.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
       "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/TSocks.jpg",
+      "RelativePath": "images/merchandises/TrumpOrnament.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/TSocks.jpg"
+      "OriginalItemSpec": "wwwroot/images/merchandises/TrumpOrnament.jpg"
     },
     {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TTAcc.webp",
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpShotGlass.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
       "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/TTAcc.webp",
+      "RelativePath": "images/merchandises/TrumpShotGlass.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,7 +375,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/TTAcc.webp"
+      "OriginalItemSpec": "wwwroot/images/merchandises/TrumpShotGlass.jpg"
     },
     {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/VintageHoodie.jpg",
@@ -395,25 +395,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/merchandises/VintageHoodie.jpg"
-    },
-    {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/whiteHat.png",
-      "SourceId": "TrumpVersApi-new",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
-      "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/merchandises/whiteHat.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/merchandises/whiteHat.png"
     },
     {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/WhiteHoodie.jpg",
@@ -454,12 +435,12 @@
       "OriginalItemSpec": "wwwroot/images/staff-members/AAzar.jpg"
     },
     {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Andrew Wheeler.jpg",
+      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AWheeler.jpg",
       "SourceId": "TrumpVersApi-new",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
       "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/staff-members/Andrew Wheeler.jpg",
+      "RelativePath": "images/staff-members/AWheeler.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,26 +451,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/staff-members/Andrew Wheeler.jpg"
-    },
-    {
-      "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Benjamin S. Carson, Sr.  .jpg",
-      "SourceId": "TrumpVersApi-new",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/",
-      "BasePath": "_content/TrumpVersApi-new",
-      "RelativePath": "images/staff-members/Benjamin S. Carson, Sr.  .jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/staff-members/Benjamin S. Carson, Sr.  .jpg"
+      "OriginalItemSpec": "wwwroot/images/staff-members/AWheeler.jpg"
     },
     {
       "Identity": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/CMiller.jpeg",
