@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrumpVersApi-new")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+084ef836f878e843bfa0b023243a849119a66e1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b6c4913d220a51b37444b78aa697135088fce35")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrumpVersApi-new")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrumpVersApi-new")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets/images/merchandises/TrumpShotGlass.jpg"
     },
     {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpToilet.jpg",
+      "PackagePath": "staticwebassets/images/merchandises/TrumpToilet.jpg"
+    },
+    {
       "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpinatorAcc.jpg",
       "PackagePath": "staticwebassets/images/merchandises/TrumpinatorAcc.jpg"
     },
@@ -83,6 +87,10 @@
     {
       "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/blueHat.png",
       "PackagePath": "staticwebassets/images/merchandises/blueHat.png"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/hat.png",
+      "PackagePath": "staticwebassets/images/merchandises/hat.png"
     },
     {
       "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AAzar.jpg",

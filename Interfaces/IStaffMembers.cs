@@ -1,7 +1,7 @@
 namespace TrumpVersApi.Interfaces
 {
     // Definerer et grensesnitt for StaffMembers
-    interface IStaffmembers
+    interface IStaffMembers
     {
         // Egenskap til å representere de ulike identifikatorene til ansatte
         int Id { get; set; }
