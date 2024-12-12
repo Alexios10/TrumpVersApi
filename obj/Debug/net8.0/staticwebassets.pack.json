@@ -1,43 +1,79 @@
 {
   "Files": [
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/css/styles.css",
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/css/styles.css",
       "PackagePath": "staticwebassets/css/styles.css"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/hat.png",
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/hat.png",
       "PackagePath": "staticwebassets/images/merchandises/hat.png"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/tshirt.jpeg",
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/tshirt.jpeg",
       "PackagePath": "staticwebassets/images/merchandises/tshirt.jpeg"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/merchandises/vise-president.png",
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/vise-president.png",
       "PackagePath": "staticwebassets/images/merchandises/vise-president.png"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/minister.png",
-      "PackagePath": "staticwebassets/images/staff-members/minister.png"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AAzar.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/AAzar.jpg"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/minister2.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/minister2.jpg"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AWheeler.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/AWheeler.jpg"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/vise-president.png",
-      "PackagePath": "staticwebassets/images/staff-members/vise-president.png"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/BCarson.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/BCarson.jpg"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/images/staff-members/yourArmy.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/yourArmy.jpg"
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/CMiller.jpeg",
+      "PackagePath": "staticwebassets/images/staff-members/CMiller.jpeg"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/index.html",
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/CWolf.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/CWolf.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/DBrouillette.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/DBrouillette.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/EDevos.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/EDevos.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/GHaspel.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/GHaspel.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/JRosen.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/JRosen.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Kharris.webp",
+      "PackagePath": "staticwebassets/images/staff-members/Kharris.webp"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/SPerdue.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/SPerdue.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Trump.webp",
+      "PackagePath": "staticwebassets/images/staff-members/Trump.webp"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/WRoss.jpg",
+      "PackagePath": "staticwebassets/images/staff-members/WRoss.jpg"
+    },
+    {
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
     {
-      "Id": "/Users/nhuquynhvu/TrumpVersApi/wwwroot/scripts/scripts.js",
+      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/scripts/scripts.js",
       "PackagePath": "staticwebassets/scripts/scripts.js"
     },
     {

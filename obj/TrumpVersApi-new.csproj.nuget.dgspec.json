@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nhuquynhvu/TrumpVersApi/TrumpVersApi-new.csproj": {}
+    "/Users/nadeemahmed/Desktop/TrumpVersApi/TrumpVersApi-new.csproj": {}
   },
   "projects": {
-    "/Users/nhuquynhvu/TrumpVersApi/TrumpVersApi-new.csproj": {
+    "/Users/nadeemahmed/Desktop/TrumpVersApi/TrumpVersApi-new.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nhuquynhvu/TrumpVersApi/TrumpVersApi-new.csproj",
+        "projectUniqueName": "/Users/nadeemahmed/Desktop/TrumpVersApi/TrumpVersApi-new.csproj",
         "projectName": "TrumpVersApi-new",
-        "projectPath": "/Users/nhuquynhvu/TrumpVersApi/TrumpVersApi-new.csproj",
-        "packagesPath": "/Users/nhuquynhvu/.nuget/packages/",
-        "outputPath": "/Users/nhuquynhvu/TrumpVersApi/obj/",
+        "projectPath": "/Users/nadeemahmed/Desktop/TrumpVersApi/TrumpVersApi-new.csproj",
+        "packagesPath": "/Users/nadeemahmed/.nuget/packages/",
+        "outputPath": "/Users/nadeemahmed/Desktop/TrumpVersApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nhuquynhvu/.nuget/NuGet/NuGet.Config"
+          "/Users/nadeemahmed/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
