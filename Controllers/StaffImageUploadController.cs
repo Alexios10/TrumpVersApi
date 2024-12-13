@@ -22,27 +22,25 @@ public class StaffImageUploadController : ControllerBase
     public async Task<IActionResult> Post(IFormFile file)
     // En IFormFile kan inneholde alle typer filer
     {
-        // WebRootPath er en filsti som brukes innad i Web APIet
-        string webRootPath = _webHostEnvironment.WebRootPath;
-        string absolutePath = Path.Combine(webRootPath, "images/staff-members", file.FileName); // Setter sammen en filsti
 
-        using (var fileStream = new FileStream(absolutePath, FileMode.Create))
-            try
+
+        try
+        {
+            // WebRootPath er en filsti som brukes innad i Web APIet
+            string webRootPath = _webHostEnvironment.WebRootPath;
+            string absolutePath = Path.Combine(webRootPath, "images/staff-members", file.FileName); // Setter sammen en filsti
+
+            using (var fileStream = new FileStream(absolutePath, FileMode.Create))
             {
-                string webRootPath = _webHostEnvironment.WebRootPath;
-                string absolutePath = Path.Combine(webRootPath, "images/staff-members", file.FileName);
-
-                using (var fileStream = new FileStream(absolutePath, FileMode.Create))
-                {
-                    await file.CopyToAsync(fileStream);
-                }
-
-                return Created();
+                await file.CopyToAsync(fileStream);
             }
-            catch
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError);
-            }
+
+            return Created();
+        }
+        catch
+        {
+            return StatusCode(StatusCodes.Status500InternalServerError);
+        }
 
     }
 

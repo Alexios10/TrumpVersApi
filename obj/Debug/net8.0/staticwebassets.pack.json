@@ -1,167 +1,163 @@
 {
   "Files": [
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/css/styles.css",
-      "PackagePath": "staticwebassets/css/styles.css"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/2024T.jpeg",
-      "PackagePath": "staticwebassets/images/merchandises/2024T.jpeg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\2024T.jpeg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\2024T.jpeg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/4547Hat.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/4547Hat.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\AmericaHoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\AmericaHoodie.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/AmericaHoodie.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/AmericaHoodie.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\ChristmasTrump.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\ChristmasTrump.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/ChristmasTrump.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/ChristmasTrump.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\FightT.jpeg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\FightT.jpeg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/FightT.jpeg",
-      "PackagePath": "staticwebassets/images/merchandises/FightT.jpeg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\FreeTrumpHoodie.jpeg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\FreeTrumpHoodie.jpeg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/FreeTrumpHoodie.jpeg",
-      "PackagePath": "staticwebassets/images/merchandises/FreeTrumpHoodie.jpeg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\KAGT.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\KAGT.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/KAGT.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/KAGT.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\MAGAHatBlack.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\MAGAHatBlack.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/MagaT.jpeg",
-      "PackagePath": "staticwebassets/images/merchandises/MagaT.jpeg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\MAGAHatMilitary.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\MAGAHatMilitary.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/SAGT.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/SAGT.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\MAGAHatPink.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\MAGAHatPink.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/SequelHat.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/SequelHat.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\MAGAHatWhite.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\MAGAHatWhite.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TAKHoodie.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/TAKHoodie.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\MagaT.jpeg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\MagaT.jpeg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/Trump2024Hat.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/Trump2024Hat.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\SAGT.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\SAGT.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpGame.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/TrumpGame.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TAKBHatRed.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\TAKBHatRed.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpOrnament.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/TrumpOrnament.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TAKHoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\TAKHoodie.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpShotGlass.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/TrumpShotGlass.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TrumpGame.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\TrumpGame.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpToilet.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/TrumpToilet.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TrumpOrnament.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\TrumpOrnament.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/TrumpinatorAcc.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/TrumpinatorAcc.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TrumpShotGlass.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\TrumpShotGlass.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/VintageHoodie.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/VintageHoodie.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TrumpToilet.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\TrumpToilet.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/WhiteHoodie.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/WhiteHoodie.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\TrumpinatorAcc.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\TrumpinatorAcc.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/blackHat.jpg",
-      "PackagePath": "staticwebassets/images/merchandises/blackHat.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\VintageHoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\VintageHoodie.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/blueHat.png",
-      "PackagePath": "staticwebassets/images/merchandises/blueHat.png"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\merchandises\\WhiteHoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\merchandises\\WhiteHoodie.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/merchandises/hat.png",
-      "PackagePath": "staticwebassets/images/merchandises/hat.png"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\AAzar.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\AAzar.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AAzar.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/AAzar.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\AWheeler.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\AWheeler.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/AWheeler.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/AWheeler.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\CMiller.jpeg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\CMiller.jpeg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/CMiller.jpeg",
-      "PackagePath": "staticwebassets/images/staff-members/CMiller.jpeg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\CWolf.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\CWolf.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/CWolf.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/CWolf.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\DBrouillette.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\DBrouillette.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/DBrouillette.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/DBrouillette.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\EDevos.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\EDevos.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/EDevos.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/EDevos.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\GHaspel.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\GHaspel.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/GHaspel.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/GHaspel.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\JRosen.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\JRosen.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/JRosen.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/JRosen.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\Kharris.webp",
+      "PackagePath": "staticwebassets\\images\\staff-members\\Kharris.webp"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Kharris.webp",
-      "PackagePath": "staticwebassets/images/staff-members/Kharris.webp"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\SPerdue.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\SPerdue.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/SPerdue.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/SPerdue.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\Trump.webp",
+      "PackagePath": "staticwebassets\\images\\staff-members\\Trump.webp"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/Trump.webp",
-      "PackagePath": "staticwebassets/images/staff-members/Trump.webp"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\images\\staff-members\\WRoss.jpg",
+      "PackagePath": "staticwebassets\\images\\staff-members\\WRoss.jpg"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/images/staff-members/WRoss.jpg",
-      "PackagePath": "staticwebassets/images/staff-members/WRoss.jpg"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\wwwroot\\scripts\\scripts.js",
+      "PackagePath": "staticwebassets\\scripts\\scripts.js"
     },
     {
-      "Id": "/Users/nadeemahmed/Desktop/TrumpVersApi/wwwroot/scripts/scripts.js",
-      "PackagePath": "staticwebassets/scripts/scripts.js"
-    },
-    {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TrumpVersApi-new.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TrumpVersApi-new.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TrumpVersApi-new.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TrumpVersApi-new.props",
       "PackagePath": "build\\TrumpVersApi-new.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TrumpVersApi-new.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TrumpVersApi-new.props",
       "PackagePath": "buildMultiTargeting\\TrumpVersApi-new.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TrumpVersApi-new.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TrumpVersApi-new.props",
       "PackagePath": "buildTransitive\\TrumpVersApi-new.props"
     }
   ],
