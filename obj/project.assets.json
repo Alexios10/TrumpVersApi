@@ -3634,19 +3634,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\satta\\.nuget\\packages\\": {}
+    "/Users/nadeemahmed/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi-new.csproj",
+      "projectUniqueName": "/Users/nadeemahmed/Desktop/TrumpVersApi/TrumpVersApi-new.csproj",
       "projectName": "TrumpVersApi-new",
-      "projectPath": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\TrumpVersApi-new.csproj",
-      "packagesPath": "C:\\Users\\satta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\satta\\Desktop\\backend\\TrumpVersApi\\obj\\",
+      "projectPath": "/Users/nadeemahmed/Desktop/TrumpVersApi/TrumpVersApi-new.csproj",
+      "packagesPath": "/Users/nadeemahmed/.nuget/packages/",
+      "outputPath": "/Users/nadeemahmed/Desktop/TrumpVersApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\satta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/nadeemahmed/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3709,7 +3709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
